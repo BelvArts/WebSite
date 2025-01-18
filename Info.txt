@@ -1,0 +1,12 @@
+commit = sauvegarde
+stage = vérification OK
+
+github permet d'héberger le code
+source tree = interface pour faire les commandes github
+clé SSH permet de sécuriser plus ton code
+
+Faire pleins de petits commit plutôt que des gros pour une meilleure lecture
+
+html = le squelette
+css = esthétique
+javascript = interaction
